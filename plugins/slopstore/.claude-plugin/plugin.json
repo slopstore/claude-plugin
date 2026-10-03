@@ -1,0 +1,13 @@
+{
+  "name": "slopstore",
+  "version": "1.0.2",
+  "description": "Publish the app in your project to Slop Store (slopapp.store) with one command, so anyone can play it in the browser.",
+  "author": {
+    "name": "Slop Store",
+    "url": "https://slopapp.store"
+  },
+  "homepage": "https://slopapp.store",
+  "repository": "https://github.com/slopstore/claude-plugin",
+  "license": "MIT",
+  "keywords": ["publish", "deploy", "share", "app-store", "games", "vibe-coding"]
+}
